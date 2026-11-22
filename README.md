@@ -20,7 +20,7 @@
 
 Explore my world. Discover my skills. Collect my projects.
 
-<a href="https://codingfer.github.io/GeneratorProfile/world/">
+<a href="https://pokemon.codingfer.com">
 <img src="https://img.shields.io/badge/▶_START_ADVENTURE-FFCB05?style=for-the-badge&logoColor=black"/>
 </a>
 
@@ -28,6 +28,22 @@ Explore my world. Discover my skills. Collect my projects.
 
 ---
 
+<!-- =============================== -->
+<!-- STATS -->
+<!-- =============================== -->
+
+<div align="center">
+
+# 📊 TRAINER STATS
+
+<img src="https://github-readme-stats.vercel.app/api?username=codingfer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingfer&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codingfer&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
 <!-- =============================== -->
 <!-- MENÚ -->
 <!-- =============================== -->
@@ -427,23 +443,6 @@ Estoy abierto a colaboraciones, proyectos freelance y oportunidades full stack.
 </td>
 </tr>
 </table>
-
----
-
-<!-- =============================== -->
-<!-- STATS -->
-<!-- =============================== -->
-
-<div align="center">
-
-# 📊 TRAINER STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=codingfer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingfer&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codingfer&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
